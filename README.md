@@ -1,10 +1,10 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="olderdev1003"> I am <a href="https://github.com/jsLover1117" color="white" target="_blank">Full Stack web and Blockchain developer</a></h1>
- <img src="https://gpvc.arturio.dev/olderdev1003" alt="Profile views" align='right'/> 
- <a href="https://github.com/olderdev1003/olderdev1003/"> </a>
+ <img src="https://gpvc.arturio.dev/jsLover1117" alt="Profile views" align='right'/> 
+ <a href="https://github.com/jsLover1117/jsLover1117/"> </a>
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Next.js+%7C%7C+Nuxt.js+%7C%7C+Nest.js;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="olderdev1003">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Next.js+%7C%7C+Nuxt.js+%7C%7C+Nest.js;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="jsLover1117">
 </p>
 <hr/>
 
@@ -39,7 +39,7 @@
 
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=olderdev1003&theme=tokyonight_duo&hide_border=true" alt="olderdev1003" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jsLover1117&theme=tokyonight_duo&hide_border=true" alt="jsLover1117" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
